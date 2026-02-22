@@ -1,0 +1,11 @@
+# claves privadas
+id_rsa
+*.pem
+*.key
+
+# carpetas SSH
+.ssh/
+
+# archivos sensibles comunes
+.env
+.env.*
